@@ -32,6 +32,6 @@ Exemplos/tutoriais:
 - https://opensource.com/article/17/3/writing-web-service-using-python-flask (mais complexo, mostra uma aplicação bem estruturada)
 - https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask (bem completa, documentação detalhada)
 
-O que entregar no GitHub: Todo o código, Um relatório em PDF com todos os prints da execução, captura de telas e detalhamento da implementação. Neste relatório deve haver um link para o portal onde seu serviço na nuvem pode ser acessado.
+O que entregar no GitHub: Todo o código, Um relatório em PDF com todos os prints da execução, captura de telas e detalhamento da implementação. 
 
 No dia determinado pelo professor os grupos farão a apresentação/demonstração da execução do sistema em funcionamento.
