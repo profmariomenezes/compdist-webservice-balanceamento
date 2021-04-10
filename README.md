@@ -31,6 +31,9 @@ Exemplos/tutoriais:
 - https://dzone.com/articles/restful-web-services-with-python-flask (bem simples, fácil de usar)
 - https://opensource.com/article/17/3/writing-web-service-using-python-flask (mais complexo, mostra uma aplicação bem estruturada)
 - https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask (bem completa, documentação detalhada)
+- https://www.datascienceblog.net/post/programming/flask-api-development/ (mostra como documentar a API com Swagger, muito bom)
+- https://realpython.com/flask-by-example-part-1-project-setup/ (quase um curso completo para uma aplicação bem completa e complexa)
+
 
 O que entregar no GitHub: Todo o código, Um relatório em PDF com todos os prints da execução, captura de telas e detalhamento da implementação. 
 
