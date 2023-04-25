@@ -10,7 +10,7 @@ Disponibilize, no seu servidor, um serviço de conversão de real para dólar e 
 
 A função deve se chamar: convertemoeda
 
-A URL deverá ser <http://nome_da_maquina.dominio/convertemoeda/<VALOR>
+A URL deverá ser  `<http://nome_da_maquina.dominio/convertemoeda/<VALOR>`
 
 E o resultado deverá ser em JSON:
 
